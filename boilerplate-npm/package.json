@@ -1,8 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author" : "Virag Kiss",
+	"author": "Virag Kiss",
+	"description" : "A project to learn npm",
+	"keywords" : ["freecodecamp", "npm", "nodejs", "backend-development"],
+	"license" : "MIT",
+	"version" : "1.1.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.19.2"
 	},
 	"main": "server.js",
 	"scripts": {
