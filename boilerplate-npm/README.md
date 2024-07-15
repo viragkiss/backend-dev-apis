@@ -1,3 +1,3 @@
-# Managing Packages With npm
+# npm Exercises
 
-This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/
+In this set of freeCodeCamp exercises, I made basic updates to the package.json file such as adding a version and licence, managing external packages and managed dependencies using semantic versioning.
